@@ -43,11 +43,16 @@ Quantum simulator written in Fortran to explore performance and deepen understan
 Combining **Tensor HyperContraction (THC)** and **Tensor Cross Interpolation (TCI)** for applications in quantum chemistry (C++).
 → *Focus: high-performance computing, tensor methods, quantum chemistry*
 
+### ▪ [QIA Hackathon 2025 — Blind Quantum Computation](git@github.com:qia-hackathon-2025/bellotBaptiste.git)
+
+Development of protocols for **blind quantum computation** using distributed quantum simulation framework SquidASM and NetSquid.
+→ *Focus: secure delegated quantum computation and protocol implementation*
+
 ---
 
 ## 📫 Contact
 
-* LinkedIn: [your-linkedin-url]
+* LinkedIn: [https://www.linkedin.com/in/baptiste-bellot/]
 
 ---
 
@@ -60,4 +65,3 @@ Currently exploring:
 * Bridging theory and high-performance implementations
 
 ---
-
