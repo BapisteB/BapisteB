@@ -1,85 +1,63 @@
-# Baptiste B
+# Hi, I'm Baptiste 👋
 
-**Quantum Software Engineer**
-*Quantum computing · Quantum chemistry · High-performance scientific computing*
-
----
-
-## Research Focus
-
-I develop computational methods and software at the intersection of **quantum computing** and **quantum chemistry**, with an emphasis on:
-
-* Efficient representations of many-body quantum systems
-* Tensor network methods and low-rank approximations
-* High-performance implementations of quantum algorithms
-* Bridging theoretical models with practical simulation and control
+**Quantum Software Engineer** focused on open source and quantum computing research.
 
 ---
 
-## Technical Expertise
+## 🧠 About Me
+
+* 🔬 Working at the intersection of **quantum computing** and **scientific software**
+* ⚛️ Interested in **quantum simulation**, **quantum chemistry**, and **quantum control**
+* 🛠️ Building tools and experimenting with new computational approaches in quantum systems
+* 🌱 Currently learning **QICK** and low-level **quantum control stacks**
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-* C++ (performance-critical systems, numerical methods)
-* Python (scientific computing, prototyping)
-* Java
+* ![C++](https://img.shields.io/badge/C++-blue)
+* ![Python](https://img.shields.io/badge/Python-yellow)
+* ![Java](https://img.shields.io/badge/Java-red)
 
-**Quantum & Scientific Ecosystem**
+**Quantum & Scientific Tools**
 
 * Qiskit
 * OpenFermion
 * Cirq
 
-**Current Exploration**
+---
 
-* Quantum control stacks (QICK)
-* Hardware-level abstractions and pulse-level programming
+## 🚀 Projects
+
+### 🔹 Fortran Quantum Simulator
+
+Quantum simulator written in Fortran to explore performance and deepen understanding of low-level scientific computing.
+→ *Focus: numerical methods, performance, learning legacy scientific ecosystems*
 
 ---
 
-## Selected Work
+### 🔹 THC-TCI (Work in Progress)
 
-### ▪ THC–TCI (Work in Progress)
-
-Development of a hybrid framework combining **Tensor HyperContraction (THC)** and **Tensor Cross Interpolation (TCI)** for quantum chemistry applications.
-
-* Focus: scalable tensor representations for electronic structure problems
-* Implementation: C++ with emphasis on performance and numerical stability
-* Goal: reduce computational complexity while preserving chemical accuracy
+Combining **Tensor HyperContraction (THC)** and **Tensor Cross Interpolation (TCI)** for applications in quantum chemistry (C++).
+→ *Focus: high-performance computing, tensor methods, quantum chemistry*
 
 ---
 
-### ▪ Fortran Quantum Simulator
+## 📫 Contact
 
-Implementation of a quantum simulator in Fortran to explore **low-level performance characteristics** and legacy scientific computing paradigms.
-
-* Focus: numerical efficiency, memory layout, and computational control
-* Motivation: understanding foundations of high-performance scientific codebases
+* LinkedIn: [your-linkedin-url]
 
 ---
 
-## Approach
+## ⚡ Focus
 
-I prioritize:
+Currently exploring:
 
-* **Algorithmic efficiency over abstraction overhead**
-* **Mathematical clarity in implementation**
-* **Reproducibility and scientific rigor**
-* **Bridging research ideas with production-quality code**
-
----
-
-## Contact
-
-* LinkedIn: [https://www.linkedin.com/in/baptiste-bellot/]
-
----
-
-## Ongoing Directions
-
-* Tensor methods for quantum simulation
-* Quantum control and hardware-aware programming
-* Scalable approaches to quantum chemistry
+* Quantum control systems
+* Efficient tensor representations
+* Bridging theory and high-performance implementations
 
 ---
 
