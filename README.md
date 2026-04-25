@@ -34,6 +34,7 @@
 ### 🔹 [Fortran Quantum Simulator](https://github.com/BapisteB/fortran_quantum_sim)
 
 Quantum simulator written in Fortran to explore performance and deepen understanding of low-level scientific computing.
+
 → *Focus: numerical methods, performance, learning legacy scientific ecosystems*
 
 ---
@@ -41,18 +42,20 @@ Quantum simulator written in Fortran to explore performance and deepen understan
 ### 🔹 [THC-TCI (Work in Progress)](https://github.com/BapisteB/THC-TCI)
 
 Combining **Tensor HyperContraction (THC)** and **Tensor Cross Interpolation (TCI)** for applications in quantum chemistry (C++).
+
 → *Focus: high-performance computing, tensor methods, quantum chemistry*
 
-### ▪ [QIA Hackathon 2025 — Blind Quantum Computation](git@github.com:qia-hackathon-2025/bellotBaptiste.git)
+### 🔹 [QIA Hackathon 2025 — Blind Quantum Computation](https://github.com/qia-hackathon-2025/bellotBaptiste)
 
 Development of protocols for **blind quantum computation** using distributed quantum simulation framework SquidASM and NetSquid.
+
 → *Focus: secure delegated quantum computation and protocol implementation*
 
 ---
 
 ## 📫 Contact
 
-* LinkedIn: [https://www.linkedin.com/in/baptiste-bellot/]
+* [LinkedIn](https://www.linkedin.com/in/baptiste-bellot/)
 
 ---
 
