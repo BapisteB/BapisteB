@@ -31,14 +31,14 @@
 
 ## 🚀 Projects
 
-### 🔹 Fortran Quantum Simulator
+### 🔹 [Fortran Quantum Simulator](https://github.com/BapisteB/fortran_quantum_sim)
 
 Quantum simulator written in Fortran to explore performance and deepen understanding of low-level scientific computing.
 → *Focus: numerical methods, performance, learning legacy scientific ecosystems*
 
 ---
 
-### 🔹 THC-TCI (Work in Progress)
+### 🔹 [THC-TCI (Work in Progress)](https://github.com/BapisteB/THC-TCI)
 
 Combining **Tensor HyperContraction (THC)** and **Tensor Cross Interpolation (TCI)** for applications in quantum chemistry (C++).
 → *Focus: high-performance computing, tensor methods, quantum chemistry*
